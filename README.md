@@ -1,4 +1,4 @@
-# Web3 DBank Project README
+#  DBank Project README
 
 Welcome to the Web3 DBank project! This project is a decentralized banking application built on the Internet Computer (ICP) blockchain. It utilizes the Motoko programming language for the backend and React for the frontend. This README will guide you through the project structure, setup, and usage.
 
